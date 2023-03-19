@@ -2,3 +2,6 @@
 
 # Introduction
 This is a test.
+
+# Info
+Divide function added
