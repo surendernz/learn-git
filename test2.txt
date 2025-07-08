@@ -7,3 +7,4 @@ another line added on remote repo
 more lines added on local 2
 line 3
 line added after switching to a branch
+small change
